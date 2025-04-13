@@ -1,0 +1,4 @@
+build/
+dist/
+pomodoro_app.spec
+pomodoro_app_console_version.py
